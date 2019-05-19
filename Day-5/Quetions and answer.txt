@@ -1,0 +1,13 @@
+01. Explain the Servlet scopes.
+02. What is JSP?
+03. Explain JSP life cycle.
+04. What is the difference between Servlet & JSP?
+05. What are JSP Components (Elements)? Name them?
+06. Explain Scripting Elements.
+07. Name implicit jsp objects.
+08. What  are the jsp directives?
+09. How to write the import statement in JSP?
+10. Explain the exception handling in jsp except try catch
+11. What is Java Bean class?
+12. What is jsp:useBean tag?
+13. What is the use of jsp:setProperty and jsp:getProerty in jsp?     
